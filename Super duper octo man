@@ -3799,7 +3799,7 @@ end)
 
  
 --------------------------------------------------------------------
-local Library = Update:Window("BEST HUB CREATED BY FRIEZ GG","")
+local Library = Update:Window("CREATED BY FRIEZ GG","")
 ------------------------------------------
 
 spawn(function()
@@ -10000,7 +10000,8 @@ end
   "Control-Control",
   "Soul-Soul",
   "Dragon-Dragon"
- }
+  "Leopard-Leopard"
+}
  
  _G.SelectFruit = ""
  DevilFruit:Dropdown("Select Fruits Sniper",FruitList,function(value)
